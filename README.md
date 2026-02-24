@@ -24,7 +24,7 @@
 *운영 및 관리 프로세스를 최적화하는 시스템 프로젝트입니다.*
 
 * 📑 **[PO-Progress-Status](https://github.com/spracknow-droid/PO-Progress-Status)** : 구매 주문(PO) 진행 상황 관리 시스템
-* 🌐 **[portal-upchem](https://github.com/spracknow-droid/Portal-upchem)** : Upchem 포털 관리 시스템 (Python 기반)
+* 🌐 **[Portal-upchem](https://github.com/spracknow-droid/Portal-upchem)** : Upchem 포털 관리 시스템 (Python 기반)
 * ✍️ **[Sales-Refund-Manual-Entries](https://github.com/spracknow-droid/Sales-Refund-Manual-Entries)** : 매출 환입 및 수동 입력 데이터 관리 도구
 
 ### 🎮 Mini Games (HTML)
