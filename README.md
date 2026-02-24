@@ -33,7 +33,7 @@
 ### 🎮 Mini Games (HTML)
 *HTML을 이용한 가벼운 로직 구현 프로젝트입니다.*
 
-* 🏰 **[Tower-of-the-Number-Wizard](https://github.com/spracknow-droid/Tower-of-the-Number-Wizard)** : 숫자 마법의 탑 게임
+* 🏰 **[Tower-of-the-Number-Wizard](https://github.com/spracknow-droid/Tower-of-the-Number-Wizard)** : 숫자 마법사의 탑 게임
 * 🔢 **[Multiplication-Master](https://github.com/spracknow-droid/Multiplication-Master)** : 구구단 마스터 학습 게임
 
 ---
