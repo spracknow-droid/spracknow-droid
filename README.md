@@ -23,7 +23,7 @@
 * 📑 **[Multiple-Excel-File-Merger](https://github.com/spracknow-droid/Multiple-Excel-File-Merger)** : 여러 엑셀 파일을 하나로 통합하는 자동화 툴
 * 🔄 **[Stock-Report-Converter](https://github.com/spracknow-droid/stock-report-converter)** : 재고 보고서 형식 변환 및 처리 도구
 * 🚗 **[Logbook-for-Business-Vehicle](https://github.com/spracknow-droid/Logbook-for-Business-Use-Passenger-Vehicle)** : 업무용 승용차 운행기록부 자동 생성
-* 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQ Lite DB 변환
+* 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQLite DB 변환
 
 ### 📂 Operations Support Systems
 *운영 및 관리 프로세스를 최적화하는 시스템 프로젝트입니다.*
