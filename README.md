@@ -17,7 +17,7 @@
 * 🔍 **[Export-Declaration-OCR-Extractor](https://github.com/spracknow-droid/Export-Declaration-OCR-Text-Extractor)** : 수출신고필증 OCR 텍스트 추출 자동화
 * 📦 **[Export-FOC-Detector](https://github.com/spracknow-droid/Export-FOC-Detector)** : 수출입 FOC(무상물품) 데이터 검출 솔루션
 * 📑 **[Multiple-Excel-File-Merger](https://github.com/spracknow-droid/Multiple-Excel-File-Merger)** : 여러 엑셀 파일을 하나로 통합하는 자동화 툴
-* 🔄 **[stock-report-converter](https://github.com/spracknow-droid/stock-report-converter)** : 재고 보고서 형식 변환 및 처리 도구
+* 🔄 **[Stock-Report-Converter](https://github.com/spracknow-droid/stock-report-converter)** : 재고 보고서 형식 변환 및 처리 도구
 * 🚗 **[Logbook-for-Business-Vehicle](https://github.com/spracknow-droid/Logbook-for-Business-Use-Passenger-Vehicle)** : 업무용 승용차 운행기록부 자동 생성
 
 ### 📂 Operations Support Systems
