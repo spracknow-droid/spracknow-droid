@@ -31,7 +31,7 @@
 * ✍️ **[Sales-Refund-Manual-Entries](https://github.com/spracknow-droid/Sales-Refund-Manual-Entries)** : 매출 환입 및 수동 입력 데이터 관리 도구
 
 ### 🎮 Mini Games (HTML)
-*HTML과 JS를 이용한 가벼운 로직 구현 프로젝트입니다.*
+*HTML을 이용한 가벼운 로직 구현 프로젝트입니다.*
 
 * 🏰 **[Tower-of-the-Number-Wizard](https://github.com/spracknow-droid/Tower-of-the-Number-Wizard)** : 숫자 마법의 탑 게임
 * 🔢 **[Multiplication-Master](https://github.com/spracknow-droid/Multiplication-Master)** : 구구단 마스터 학습 게임
