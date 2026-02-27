@@ -30,6 +30,7 @@
 * 📑 **[PO-Progress-Status](https://github.com/spracknow-droid/PO-Progress-Status)** : 구매 주문(PO) 진행 상황 관리 시스템
 * ✍️ **[Sales-Refund-Manual-Entries](https://github.com/spracknow-droid/Sales-Refund-Manual-Entries)** : 매출 환입 및 수동 입력 데이터 관리 도구
 * 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQLite DB 변환
+* 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 판매 데이터 분석에 용이한 View Table을 생성
 
 ### 🎮 Mini Games (HTML)
 *HTML을 이용한 가벼운 게임 구현 프로젝트입니다.*
