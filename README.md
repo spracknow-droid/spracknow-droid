@@ -32,14 +32,14 @@
 * 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQLite DB 변환
 * 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 판매 데이터 분석에 용이한 View Table을 생성
 
-### 🎮 Mini Games (HTML)
-*HTML을 이용한 가벼운 게임 구현 프로젝트입니다.*
+### 🎮 Mini Games
+*HTML5, TypeScript를 이용한 가벼운 게임 구현 프로젝트입니다.*
 
 * 🔢 **[Multiplication-Master](https://github.com/spracknow-droid/Multiplication-Master)** : 구구단 마스터 학습 게임
 * 🏰 **[Tower-of-the-Number-Wizard](https://github.com/spracknow-droid/Tower-of-the-Number-Wizard)** : 숫자 마법사의 탑 게임
 * 🐰 **[Rabbit-Stair-Climber](https://github.com/spracknow-droid/Rabbit-Stair-Climber)** : 마법의 성 토끼
 
-### 📱Mobile App (Flutter)
+### 📱Mobile App
 *Flutter를 이용한 간단한 모바일 앱 만들기 프로젝트입니다.*
 
 * 📝 **[ThinkDrop](https://github.com/spracknow-droid/ThinkDrop)** : ThinkDrop 메모 앱
@@ -49,5 +49,6 @@
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
