@@ -8,6 +8,13 @@
 
 * 🌐 **[Portal-upchem](https://github.com/spracknow-droid/Portal-upchem)** : **Integrated Operations Portal** (대시보드, RPA 도구 통합 접속 환경)
 
+### 🗄️ SQLite DB 관리
+*SQLite DB와 관련된 작업을 돕는 프로젝트입니다.*
+
+* 🔍 **[SQLite-Viewer](https://github.com/spracknow-droid/SQLite-Viewer)** : SQLite Table & View Explorer
+* 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQLite DB 변환
+* 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 판매 데이터 분석에 용이한 View Table을 생성
+
 ### 📊 Data Visualization & Dashboards
 *데이터를 시각화하여 의사결정을 돕는 프로젝트입니다.*
 
@@ -23,15 +30,12 @@
 * 📑 **[Multiple-Excel-File-Merger](https://github.com/spracknow-droid/Multiple-Excel-File-Merger)** : 여러 엑셀 파일을 하나로 통합하는 자동화 툴
 * 🔄 **[Stock-Report-Converter](https://github.com/spracknow-droid/stock-report-converter)** : 재고 보고서 형식 변환 및 처리 도구
 * 🚗 **[Logbook-for-Business-Vehicle](https://github.com/spracknow-droid/Logbook-for-Business-Use-Passenger-Vehicle)** : 업무용 승용차 운행기록부 자동 생성
-* 🔍 **[SQLite-Viewer](https://github.com/spracknow-droid/SQLite-Viewer)** : SQLite Table & View Explorer
 
 ### 📂 Operations Support Systems
 *운영 및 관리 프로세스를 최적화하는 시스템 프로젝트입니다.*
 
 * 📑 **[PO-Progress-Status](https://github.com/spracknow-droid/PO-Progress-Status)** : 구매 주문(PO) 진행 상황 관리 시스템
 * ✍️ **[Sales-Refund-Manual-Entries](https://github.com/spracknow-droid/Sales-Refund-Manual-Entries)** : 매출 환입 및 수동 입력 데이터 관리 도구
-* 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQLite DB 변환
-* 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 판매 데이터 분석에 용이한 View Table을 생성
 
 ### 🎮 Mini Games
 *HTML5, TypeScript를 이용한 가벼운 게임 구현 프로젝트입니다.*
