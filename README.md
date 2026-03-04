@@ -14,7 +14,7 @@
 * 🔍 **[SQLite-Viewer](https://github.com/spracknow-droid/SQLite-Viewer)** : SQLite Table & View Explorer
 * 🗄️ **[SQLite-DB-Merger](https://github.com/spracknow-droid/SQLite-DB-Merger)** : 서로 다른 SQLite DB를 하나의 파일로 병합
 * 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(계획/실적) 통합 및 SQLite DB 변환
-* 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 판매 데이터를 통합하여 View Table을 생성
+* 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 판매 데이터를 통합하여 SQLite View를 생성
 
 ### 📊 Data Visualization & Dashboards
 *데이터를 시각화하여 의사결정을 돕는 프로젝트입니다.*
