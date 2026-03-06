@@ -15,7 +15,6 @@
 * 🗄️ **[Safe-Excel-to-SQLite](https://github.com/spracknow-droid/Safe-Excel-to-SQLite)** : 엑셀 파일을 업로드하여 SQLite Table을 생성
 * 🗄️ **[SQLite-DB-Merger](https://github.com/spracknow-droid/SQLite-DB-Merger)** : 서로 다른 SQLite DB를 하나의 파일로 병합
 * 🗄️ **[SQLite-DB-Deleter](https://github.com/spracknow-droid/SQLite-DB-Deleter)** : SQLite DB 내 불필요한 Table이나 View를 삭제
-* 🗄️ **[Sales-to-DB](https://github.com/spracknow-droid/Sales-to-DB)** : 판매 데이터(xlsx)를 SQLite DB로 업데이트
 * 🗄️ **[Integrated-Sales-View](https://github.com/spracknow-droid/Integrated-Sales-View)** : 매출리스트, 판매계획, 거래처 마스터를 통합하여 View를 생성
 * 🗄️ **[View-Sales-Variance-Analysis](https://github.com/spracknow-droid/View-Sales-Variance-Analysis)** : 판매분석(매출차이)에 용이한 View를 생성
 
