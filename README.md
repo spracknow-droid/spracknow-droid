@@ -12,6 +12,7 @@
 *SQLite DB와 관련된 작업을 돕는 프로젝트입니다.*
 
 * 🔍 **[SQLite-Viewer](https://github.com/spracknow-droid/SQLite-Viewer)** : SQLite Table & View Explorer
+* 🗄️ **[Safe-Excel-to-SQLite](https://github.com/spracknow-droid/Safe-Excel-to-SQLite)** : 엑셀 파일을 업로드하여 SQLite Table을 생성
 * 🗄️ **[SQLite-DB-Merger](https://github.com/spracknow-droid/SQLite-DB-Merger)** : 서로 다른 SQLite DB를 하나의 파일로 병합
 * 🗄️ **[SQLite-DB-Deleter](https://github.com/spracknow-droid/SQLite-DB-Deleter)** : SQLite DB 내 불필요한 Table이나 View를 삭제
 * 🗄️ **[Excel-to-DB](https://github.com/spracknow-droid/Excel-to-DB)** : 판매 데이터(xlsx)를 SQLite DB로 업데이트
