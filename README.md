@@ -6,7 +6,7 @@
 ### 🚀 Central Portal System
 *모든 업무 자동화 도구와 데이터 대시보드를 통합 관리하는 중앙 제어 시스템입니다.*
 
-* 🌐 **[Portal-upchem](https://github.com/spracknow-droid/Portal-upchem)** : **Integrated Operations Portal** (대시보드, RPA 도구 통합 접속 환경)
+* 🌐 **[Portal-upchem](https://github.com/spracknow-droid/Portal-upchem)** : **Integrated Operations Portal** (대시보드, 업무자동화 통합 포털)
 
 ### 🗄️ SQLite DB 관리
 *SQLite DB와 관련된 작업을 돕는 프로젝트입니다.*
