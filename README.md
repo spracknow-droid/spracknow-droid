@@ -15,13 +15,6 @@
 * 🗄️ **[SQLite-DB-Merger](https://github.com/spracknow-droid/SQLite-DB-Merger)** : 서로 다른 SQLite DB를 하나의 파일로 병합
 * 🗄️ **[SQLite-DB-Deleter](https://github.com/spracknow-droid/SQLite-DB-Deleter)** : SQLite DB 내 불필요한 Table이나 View를 삭제
 
-### 📊 Data Visualization & Dashboards
-*데이터를 시각화하여 의사결정을 돕는 프로젝트입니다.*
-
-* 📈 **[AR-Aging-Dashboard](https://github.com/spracknow-droid/AR-Aging-Dashboard)** : 매출 채권(AR) 연령 분석 및 시각화 대시보드
-* 🛍️ **[Sales-Dashboard](https://github.com/spracknow-droid/Sales-Dashboard)** : 판매 데이터 분석 및 실적 모니터링 대시보드
-* 💸 **[Cashflow-Dashboard](https://github.com/spracknow-droid/Cashflow-Dashboard)** : 현금 흐름 분석 및 예측 대시보드
-
 ### ⚙️ Business Automation & Tools (RPA)
 *반복적인 업무를 자동화하고 효율을 높이는 도구들입니다.*
 
