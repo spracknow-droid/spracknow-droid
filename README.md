@@ -2,12 +2,6 @@
 
 > **Python 기반의 데이터 분석 및 업무 자동화 솔루션**을 개발하며 효율적인 프로세스를 만드는 데 관심이 많습니다.
 
----
-### 🚀 Central Portal System
-*모든 업무 자동화 도구와 데이터 대시보드를 통합 관리하는 중앙 제어 시스템입니다.*
-
-* 🌐 **[Portal-upchem](https://github.com/spracknow-droid/Portal-upchem)** : **Integrated Operations Portal** (대시보드, 업무자동화 통합 포털)
-
 ### 🗄️ SQLite DB 관리
 *SQLite DB와 관련된 작업을 돕는 프로젝트입니다.*
 
